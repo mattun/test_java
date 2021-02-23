@@ -11,5 +11,7 @@ public class Main {
 
         Logger logger = LoggerFactory.getLogger(Main.class);
         logger.info("Hello Logback!!");
+
+        System.out.println("TEST LOG");
     }
 }
